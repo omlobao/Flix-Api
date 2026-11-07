@@ -98,7 +98,7 @@ Todos os endpoints utilizam o prefixo versionado `/api/v1/`:
 
 1. Clone o repositorio:
    ```bash
-   git clone https://github.com/SEU_USUARIO/flix-api.git
+   git clone https://github.com/omlobao/Flix-Api.git
    cd flix-api
    ```
 
@@ -184,6 +184,3 @@ flix-api/
 
 ---
 
-## Licenca
-
-Projeto desenvolvido para fins educacionais e avaliacao tecnica.
